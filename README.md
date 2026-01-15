@@ -33,6 +33,7 @@ The app allows users to create colors using **RGB sliders**, view the color in r
 ## 💻 Screenshots
 <img width="1068" height="655" alt="image" src="https://github.com/user-attachments/assets/6c3b0e22-a0f9-49f0-b2eb-fad19cbac772" />
 <img width="1069" height="657" alt="image" src="https://github.com/user-attachments/assets/b129d62b-5772-45f7-93bb-7302d5efa91d" />
-<img width="556" height="195" alt="image" src="https://github.com/user-attachments/assets/9bb090af-7523-48bc-b13d-27b7b1707897" />
+<img width="548" height="169" alt="image" src="https://github.com/user-attachments/assets/d9cd043a-6a72-4552-b407-c6994498523b" />
+<img width="533" height="474" alt="image" src="https://github.com/user-attachments/assets/7c00c0c4-25f7-4c97-ad1c-cc8158d32999" />
 
 
